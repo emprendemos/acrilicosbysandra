@@ -1,0 +1,99 @@
+{
+    "productos": [      
+        {
+            "nombre": "1-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/1-producto.png",
+            "precio": 0
+        },
+        {
+            "nombre": "2-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/2-producto.png",
+            "precio": 0
+        },
+        {
+            "nombre": "3-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/3-producto.png",
+            "precio": 0
+        },
+        {
+            "nombre": "4-Circulo acrílico fluido resina epox gen intervenido",
+            "modelo": "Producto grande",
+            "img": "img/4-producto.png",
+            "precio": 0
+        },
+        {
+            "nombre": "5-Circulo resina epox",
+            "modelo": "Producto grande",
+            "img": "img/5-producto.png",
+            "precio": 0
+        },
+        {
+            "nombre": "6-Circulo resina epox isla",
+            "modelo": "Producto grande",
+            "img": "img/6-producto.png",
+            "precio": 0
+        },
+        {
+            "nombre": "7-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/7-producto.png",
+            "precio": 0
+        },
+        {
+            "nombre": "8-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/8-producto.png",
+            "precio": 0
+
+        },
+        {
+            "nombre": "9-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/9-producto.png",
+            "precio": 0
+
+        },
+        {
+            "nombre": "10-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/10-producto.png",
+            "precio": 0
+
+        },
+        {
+            "nombre": "11-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/11-producto.png",
+            "precio": 0
+
+        },
+        {
+            "nombre": "12-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/12-producto.png",
+            "precio": 0
+        },
+        {
+            "nombre": "13-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/13-producto.png",
+            "precio": 0
+        },
+        {
+            "nombre": "14-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/14-producto.png",
+            "precio": 0
+        },
+        {
+            "nombre": "15-Acrílico",
+            "modelo": "Producto grande",
+            "img": "img/15-producto.png",
+            "precio": 0
+        }
+
+    ]
+}
