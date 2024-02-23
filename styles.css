@@ -51,7 +51,14 @@ body {
   section h2 {
     margin-top: 0;
   }
-  
+  .video-container {
+    text-align: center; /* Centra horizontalmente el contenido */
+    
+  }
+
+  video {
+    display: inline-block; /* Hace que el video sea un bloque en línea */
+  }
   footer {
     background-color: #8B0000;
     color: white;
