@@ -2,7 +2,8 @@
 
 _Acrílicos by Sandra_
 
-https://emprendemos.github.io/acrilicosbysandra/
+https://emprendemos.github.io/bysandrachile/
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
