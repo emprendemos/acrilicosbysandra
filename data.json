@@ -1,98 +1,113 @@
 {
     "productos": [      
         {
-            "nombre": "1-Acrílico",
+            "nombre": "1-Floresta Espacial",
+            "descripcion": "Pinturas fluidas acrílicas coloridas sobre lienzo contemporáneo abstracto, técnica soplado. LA140X70cm",
             "modelo": "Producto grande",
             "img": "img/1-producto.png",
-            "precio": 0
+            "precio": 300000
         },
         {
-            "nombre": "2-Acrílico",
+            "nombre": "2-Renacim. en Flor",
+            "descripcion": "Pintura original, abstracto acrílico fluido en azul marino, turquesa, índigo , Oro, sobre lienzo texturizada a mano. LA140X70cm",
             "modelo": "Producto grande",
             "img": "img/2-producto.png",
-            "precio": 0
+            "precio": 350000
         },
         {
-            "nombre": "3-Acrílico",
-            "modelo": "Producto grande",
+            "nombre": "3-Arenas Movediz.",
+            "descripcion": "Pintura acrílica abstracta original, acabado de resina epoxi. LA50X25cm",
+            "modelo": "Producto pequeño",
             "img": "img/3-producto.png",
-            "precio": 0
+            "precio": 80000
         },
         {
-            "nombre": "4-Circulo acrílico fluido resina epox gen intervenido",
-            "modelo": "Producto grande",
+            "nombre": "4-Molino Giratorio",
+            "descripcion": "Pintura acrílica de arte fluido circular sobre lienzo extendido, arte de pared de acrílico, diseño moderno multicolor, arte artesanal terminación resina epóxica. MDF Diam. 50cm",
+            "modelo": "Producto circular",
             "img": "img/4-producto.png",
-            "precio": 0
+            "precio": 130000
         },
         {
-            "nombre": "5-Circulo resina epox",
+            "nombre": "5-Estallido en Flor",
+            "descripcion": "Pintura acrílica fluida para verter, diseño abstracto y colores contemporáneos, lienzo resistente. LA100X70cm",
             "modelo": "Producto grande",
             "img": "img/5-producto.png",
-            "precio": 0
+            "precio": 186000
         },
         {
-            "nombre": "6-Circulo resina epox isla",
-            "modelo": "Producto grande",
+            "nombre": "6-El Escorpión",
+            "descripcion": "Pintura acrílica de arte fluido circular sobre lienzo, arte de pared de acrílico, diseño moderno multicolor, arte artesanal para dormitorio o sala de estar. MDF diám. 40cm",
+            "modelo": "Producto circular",
             "img": "img/6-producto.png",
-            "precio": 0
+            "precio": 130000
         },
         {
-            "nombre": "7-Acrílico",
-            "modelo": "Producto grande",
+            "nombre": "7-Tierra Divino Tesoro",
+            "descripcion": "Pintura acrílica abstracta y original, hecha a mano y única, decoración de pared minimalista tono tierra. MDF diám. 35cm",
+            "modelo": "Producto circular",
             "img": "img/7-producto.png",
-            "precio": 0
+            "precio": 130000
         },
         {
-            "nombre": "8-Acrílico",
-            "modelo": "Producto grande",
+            "nombre": "8-La Isla Perdida",
+            "descripcion": "Arte de pared de tela único Arte de pared texturizado Beige Arte de tela minimalista moderno Decoración del hogar de moda Arte de pared personalizado, acabado de resina. MDF diám. 50cm" ,
+            "modelo": "Producto circular",
             "img": "img/8-producto.png",
-            "precio": 0
+            "precio": 140000
 
         },
         {
-            "nombre": "9-Acrílico",
-            "modelo": "Producto grande",
+            "nombre": "9-Vientos de Primavera",
+            "descripcion": "Obra de arte acrílico fluido, pintura abstracta decoración de pared acabado en resina epóxica. MDF diám. 50cm",
+            "modelo": "Producto circular",
             "img": "img/9-producto.png",
-            "precio": 0
+            "precio": 130000
 
         },
         {
-            "nombre": "10-Acrílico",
-            "modelo": "Producto grande",
+            "nombre": "10-Explosión Celestial",
+            "descripcion": "Pintura acrílica de arte fluido circular sobre lienzo, arte de pared de acrílico, diseño moderno multicolor, arte artesanal para dormitorio o sala de estar. MDF diám. 35cm",
+            "modelo": "Producto circular",
             "img": "img/10-producto.png",
-            "precio": 0
+            "precio": 130000
 
         },
         {
-            "nombre": "11-Acrílico",
+            "nombre": "11-Torbellinos",
+            "descripcion": "Pintura abstracta lienzo con textura, pintura acrílica colorida espátula arte de pared. LA100X70cm",
             "modelo": "Producto grande",
             "img": "img/11-producto.png",
-            "precio": 0
+            "precio": 186000
+        },
+        {
+            "nombre": "12-El Resplandor de mi Sueño",
+            "descripcion": "Pinturas fluidas acrílicas coloridas sobre lienzo, acrílico contemporáneo abstracto, técnica de soplado. MDF diám. 60cm",
+            "modelo": "Producto circular",
+            "img": "img/12-producto.png",
+            "precio": 160000
 
         },
         {
-            "nombre": "12-Acrílico",
-            "modelo": "Producto grande",
-            "img": "img/12-producto.png",
-            "precio": 0
-        },
-        {
-            "nombre": "13-Acrílico",
+            "nombre": "13-El Resplandor",
+            "descripcion": "Acrílico vertido arte abstracto hecho a mano, diseño moderno, terminación resina epóxica. LA100X70cm",
             "modelo": "Producto grande",
             "img": "img/13-producto.png",
-            "precio": 0
+            "precio": 200000
         },
         {
-            "nombre": "14-Acrílico",
-            "modelo": "Producto grande",
+            "nombre": "14-Fondo Marino",
+            "descripcion": "Pinturas fluidas acrílicas coloridas sobre lienzo, incrustaciones de piedras y figuras en resina, terminación resina epóxica. LA26X51cm",
+            "modelo": "Producto pequeño",
             "img": "img/14-producto.png",
-            "precio": 0
+            "precio": 80000
         },
         {
-            "nombre": "15-Acrílico",
+            "nombre": "15-Destello Fugaz",
+            "descripcion": "Pintura acrílica en   arte fluido sobre lienzo texturizada hecha a mano. LA100X70cm",
             "modelo": "Producto grande",
             "img": "img/15-producto.png",
-            "precio": 0
+            "precio": 180000
         }
 
     ]

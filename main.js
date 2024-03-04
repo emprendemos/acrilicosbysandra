@@ -41,6 +41,11 @@ function mostrarProductos() {
             productoNombre.innerHTML = producto.nombre;
             productoDiv.appendChild(productoNombre);
 
+            // Crear un p para la descripcion del producto
+            const productoDescripcion = document.createElement("p");
+            productoDescripcion.innerHTML = producto.descripcion;
+            productoDiv.appendChild(productoDescripcion);
+
             // Crear un p para el modelo del producto
             const productoModel = document.createElement("p");
             productoModel.innerHTML = producto.modelo;
